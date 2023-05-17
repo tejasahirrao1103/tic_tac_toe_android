@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#302F2F">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Multiplayer Tic-Tac-Toe Game"
+        android:textColor="#939393"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:id="@+id/txthid2"
+        />
+    <TextView
+        android:id="@+id/txtWin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+
+        />
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:columnCount="3"
+        >
+        
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="5dp"
+            android:textStyle="bold"
+            android:textSize="50sp"
+            android:id="@+id/btn1"
+            android:onClick="Btn_click"
+            android:backgroundTint="#000"
+
+        />
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="5dp"
+            android:textStyle="bold"
+            android:textSize="50sp"
+            android:id="@+id/btn2"
+            android:onClick="Btn_click"
+            android:backgroundTint="#000"
+            />
+        <Button
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_margin="5dp"
+        android:textStyle="bold"
+        android:textSize="50sp"
+        android:id="@+id/btn3"
+        android:onClick="Btn_click"
+            android:backgroundTint="#000"
+        />
+        <Button
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_margin="5dp"
+        android:textStyle="bold"
+        android:textSize="50sp"
+        android:id="@+id/btn4"
+            android:backgroundTint="#000"
+        android:onClick="Btn_click"
+        />
+        <Button
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_margin="5dp"
+        android:textStyle="bold"
+        android:textSize="50sp"
+        android:id="@+id/btn5"
+            android:backgroundTint="#000"
+        android:onClick="Btn_click"
+        />
+        <Button
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_margin="5dp"
+        android:textStyle="bold"
+        android:textSize="50sp"
+        android:id="@+id/btn6"
+            android:backgroundTint="#000"
+        android:onClick="Btn_click"
+        />
+        <Button
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_margin="5dp"
+        android:textStyle="bold"
+            android:backgroundTint="#000"
+        android:textSize="50sp"
+        android:id="@+id/btn7"
+        android:onClick="Btn_click"
+        />
+        <Button
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_margin="5dp"
+        android:textStyle="bold"
+        android:textSize="50sp"
+            android:backgroundTint="#000"
+        android:id="@+id/btn8"
+        android:onClick="Btn_click"
+        />
+        <Button
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_margin="5dp"
+        android:textStyle="bold"
+            android:backgroundTint="#000"
+        android:textSize="50sp"
+        android:id="@+id/btn9"
+        android:onClick="Btn_click"
+        />
+
+
+    </GridLayout>
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/baseline_replay_24"
+        android:visibility="invisible"
+        android:id="@+id/btnreplay"
+        android:backgroundTint="#6A2DA6"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Project Application by Tejas Ahirrao\n Follow IG :- @tejasahirrao1103"
+        android:textColor="#939393"
+        android:textSize="15dp"
+        android:textStyle="italic|bold"
+        android:layout_marginTop="20dp"
+        android:textAlignment="center"
+        android:id="@+id/txthid1"
+        />
+
+
+
+
+
+
+</LinearLayout>
