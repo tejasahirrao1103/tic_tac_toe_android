@@ -2,7 +2,8 @@
 
 Welcome to the Tic-Tac-Toe Game! This Android application brings the classic game of Tic-Tac-Toe to your fingertips. Challenge yourself against an AI opponent or compete with friends in multiplayer mode. Download now and experience the joy of strategic gameplay!
 
-![Game Screenshot](androidimg1.png)
+
+<img src="https://play-lh.googleusercontent.com/BCjFmGQIaw30SaUg221TGM7z_-crmGhGmsBWzEVyqZLvpUSeXPOIzOIeUxNAZiGwP7fy=w5120-h2880-rw" width="400" height="250">  <img src="https://play-lh.googleusercontent.com/qwXjijwfOv-sdWn6EHpef9GMDpLFKnAAM-G8rY_Xn08_Z8AcruERqTmcY18LOYsFDmnh=w5120-h2880-rw" width="130" height="250">  <img src="https://play-lh.googleusercontent.com/Lfs6erXvih9iZNFopf92dMX8pPgw-F2TnD7_4TECcTRLGjEM1uFRtGqV3OCCEePt6Q=w5120-h2880-rw" width="130" height="250">  <img src="https://play-lh.googleusercontent.com/0QbkiqIN9PCoSUmgHJY7wz_WridHGBWGoLPQfINI7Xg_Jyi5rBBMayDkyCzy57My59c=w5120-h2880-rw" width="130" height="250">  <img src="https://play-lh.googleusercontent.com/vcJZUd5zUtMO46ifyGu81dutwxBElzbmtOStmxKCLEJk8_SvS3VTC1lkMWwkoXsmsR0=w5120-h2880-rw" width="130" height="250">
 
 ## Features
 
@@ -20,7 +21,7 @@ Welcome to the Tic-Tac-Toe Game! This Android application brings the classic gam
 
 Download the Tic-Tac-Toe Game from the Google Play Store and start playing today!
 
-[![Play Store Badge]()](https://play.google.com/store/apps/details?id=com.tejraj.oxgame)
+[![Play Store Badge](https://lh3.googleusercontent.com/SnctPmTxZhH89s1b5GMoyhmujcqSVA8p_y9RZw6LCPGAQPCjxZBhJc0Dhbzy0P3lKrGd496VV3Z5nw8youku1PStLQ8xnbl13fO1Y70eJyiRZZRZaA=s0)](https://play.google.com/store/apps/details?id=com.tejraj.oxgame)
 
 ## Getting Started
 
@@ -29,7 +30,7 @@ To get started with the Tic-Tac-Toe Game, follow these steps:
 1. Clone the repository to your local machine:
 
     ```
-    git clone https://github.com/your-username/tic-tac-toe.git
+    git clone https://github.com/tejasahirrao1103/tic_tac_toe_android
     ```
 
 2. Open the project in Android Studio.
@@ -38,32 +39,13 @@ To get started with the Tic-Tac-Toe Game, follow these steps:
 
 4. Start playing the game and enjoy!
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-
-2. Create a new branch for your feature or bug fix.
-
-3. Make the necessary changes in your branch.
-
-4. Test your changes thoroughly.
-
-5. Commit and push your changes to your forked repository.
-
-6. Submit a pull request, explaining the changes you've made and their benefits.
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-I would like to express my gratitude to [mention names/organizations] for their tutorials and documentation, which were instrumental in my learning process.
-
 ## Contact
 
-For any questions, suggestions, or collaborations, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourname/). Let's connect and discuss exciting ideas!
+For any questions, suggestions, or collaborations, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/tejasahirrao1103/). Let's connect and discuss exciting ideas!
 
 Stay tuned for updates and more games to come. Your feedback and support are highly appreciated!
